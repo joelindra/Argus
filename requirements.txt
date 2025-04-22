@@ -1,0 +1,6 @@
+requests
+colorama
+urllib3
+pyfiglet
+termcolor
+tqdm
